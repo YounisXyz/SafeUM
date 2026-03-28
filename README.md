@@ -9,8 +9,6 @@
 
 [![](https://img.shields.io/badge/Messenger-red?logo=Messenger&logoColor=red&labelColor=black)](https://m.me/YounisXyz) <br>
 
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/923194999455?text=hey+YounisXyz+im+from+safeum) <br><br>
-
 ## <b>installation</b>
 
 - `pkg update`
@@ -35,12 +33,9 @@
 - `rm -rf SafeUM`
 - `git clone --depth=1 https://github.com/YounisXyz/SafeUM`
 - `cd SafeUM`
-- `python Xyz.py`
+- `chmod 777 Xyz`
+- `./Xyz`
 
-
-
- ___This Tools is Free___</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-MR.YOUNIS-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923194999455)
 
 
 
